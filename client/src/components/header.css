@@ -1,0 +1,51 @@
+.header{
+    position:"sticky";
+    background-color: rgb(255, 255, 255);
+    margin: 5px;
+    padding-top: 20px;
+}
+
+.box2{
+    display:"flex" ;
+    margin-left:"auto";
+}
+
+.logo{
+    padding:"20px";
+    color:"red";
+}
+
+.searchbar{
+    top: 50px;
+    width: 60px;
+    height: 30px;
+    padding-left: 10px;
+    
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-elements{
+    padding-right: 20px;
+}
+
+#search-here{
+    display: inline-block;
+    height: 30px;
+}
+
+#search-icon{
+    height: 30px;
+    width: 20px;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.pages{
+    color: black;
+}
+
+#loginbutton{
+    background-color: transparent;
+}
